@@ -1,6 +1,6 @@
 # Test-Bench-Vehicle  
 A compact experimental platform developed during my time with the now defunct **UTS Motorsports Autonomous team**.  
-This project was designed, modelled and assembled over the **first week of winter break**, with the goal of showcasing a functional autonomous systems testbed at **TechFest**.
+This project was designed, modelled and assembled over the **first week of winter break**, with the goal of showcasing a functional autonomous systems testbed at **TechFest 2024**.
 
 ---
 
@@ -16,6 +16,7 @@ It was designed as a **core development platform** for the team — something sm
 
 The initial concept, CAD work, and assembly were completed rapidly to prepare for TechFest demonstrations.  
 This repo documents the entire process.
+Note: there are rebuild errors because this was all made on SolidWorks 2021 and I was far less skilled.
 
 ---
 
